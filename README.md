@@ -1,3 +1,33 @@
+# Personal Portfolio
+
+This is my personal portfolio built with React and Tailwind CSS.
+
+## Technologies
+
+- React
+- Tailwind CSS
+- JavaScript
+- Vite
+
+## Features
+
+- Responsive Design
+- Smooth Animations
+- Contact Section
+- Projects Showcase
+
+## Installation
+
+npm install
+
+npm run dev
+
+## Live Demo
+
+Coming soon...
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
