@@ -7,19 +7,19 @@ const Experience = () => {
   const Skills = [{
     id:1,
     name: 'HTML & CSS',
-    width: '85%',
+    width: '70%',
     icon: Layout
   },
   {
     id:2,
     name: 'React js',
-    width: '70%',
+    width: '60%',
     icon: Cpu
   },
   {
     id:3,
     name: 'Javascript',
-    width: '90%',
+    width: '85%',
     icon: Terminal
   },
   {
